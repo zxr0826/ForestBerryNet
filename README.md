@@ -27,3 +27,5 @@ Thanks to the Riz team for providing the dataset, you can download the dataset u
   year={2024}
 }
 ```
+## How to train
+You can choose model in [ForestBerryNet.yaml](./ForestBerryNer/cfg/models/11/ForestBerryNet.yaml)
