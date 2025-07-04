@@ -2,11 +2,11 @@ import warnings, os
 warnings.filterwarnings('ignore')
 from ForestBerryNet import YOLO
 if __name__ == '__main__':
-    model = YOLO(f'/home/waas/ForestBerry-copy/ForestBerryNet/cfg/models/11/ForestBerryNet.yaml')
-    model.train(data='/home/waas/data/wildB/data.yaml',
+    model = YOLO(f'/path/your/yaml/')
+    model.train(data='/path/dataset/yaml/',
                 cache=False,
                 imgsz=640,
-                epochs=600,
+                epochs=300,
                 batch=32,
                 close_mosaic=0,
                 workers=4, 
