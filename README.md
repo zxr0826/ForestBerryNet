@@ -30,5 +30,3 @@ Thanks to the Riz team for providing the dataset, you can download the dataset u
   year={2024}
 }
 ```
-## How to train
-You can use train.py train ForestBerryNet
