@@ -1,5 +1,8 @@
 # <div style="text-align: center;">ForestBerryNet: A Dual-Backbone Architecture with Hierarchical Attention Fusion for Efficient Forest Berry Detection</div>
 
+![ForestBerryNet](ForestBerryNet.jpg)
+
+
 
 ## Introduction 
 ForestBerryNet is a lightweight dual-backbone architecture designed for efficient forest berry detection, tailored for deployment on resource-constrained platforms such as drones and edge devices.
